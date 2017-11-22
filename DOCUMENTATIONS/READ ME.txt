@@ -1,0 +1,14 @@
+This javascript code animates background color of any element, just pass the element selector (id, class, or other element selector)
+as the arguement in the function animateBackgroundColor().
+
+Regards.
+Adedayo Matthews
+  
+----------------------------------------------------
+phone: +2348139004572
+facebook: www.facebook.com/kayode.adedayo1
+email: adedayomatt@gmail.com
+Instagram: @adedayomatt
+Twitter: @adedayomatt
+------------------------------------------------------
+ 
